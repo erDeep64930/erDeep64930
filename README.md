@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working as React Developer ...
-
-
+- 🌱 I’m currently focusing as Full Stack Developer ...
+- 📫 How to reach me: ...(+91)-99391-83692
+-  👯 I’m looking to collaborate on web development cases
 <!--
 **erDeep64930/erDeep64930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
